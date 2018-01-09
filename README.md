@@ -1,1 +1,1 @@
-# fake-rest-server-2
+# fake-rest-server
