@@ -16,7 +16,18 @@
   		"accountManager": "aman",
   		"phone": "6789998888",
   		"phoneAlt": "",
-  		"fax": ""
+  		"fax": "",
+		"addresses": [
+			{
+			"type": "Environment",
+			"address": "http://hs3.wanderingwifi.com/location/54",
+			"address2": "",
+			"city": "54",
+			"state": "HS5",
+			"zip": "",
+			"country": ""
+			}
+		]
 		}
 	]
 }
